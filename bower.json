@@ -1,0 +1,26 @@
+{
+  "name": "modal",
+  "version": "0.0.1",
+  "authors": [
+    "fengfirst"
+  ],
+  "description": "modal",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "marionette": "~2.2.1"
+  }
+}
