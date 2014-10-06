@@ -1,5 +1,8 @@
 {
   "name": "modal",
+  "main": [
+    "./view.js"
+  ],
   "version": "0.0.1",
   "authors": [
     "fengfirst"
